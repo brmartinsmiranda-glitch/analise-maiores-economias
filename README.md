@@ -25,20 +25,6 @@ Uma empresa internacional deseja expandir seus negócios globalmente. E eu fui c
 |--------|-----------|
 | `Largest_economies.csv` | Resultado final contendo os países e seus respectivos PIBs em bilhões de USD |
 
----
-
-## 📈 Exemplo de Saída (top 5 países)
-| País | PIB (USD bilhões) |
-|------|-------------------|
-| Estados Unidos | 25.350 |
-| China | 19.910 |
-| Japão | 4.940 |
-| Alemanha | 4.220 |
-| Índia | 3.390 |
-
-*(Valores ilustrativos, podem variar conforme atualização da fonte oficial)*
-
----
 
 ##  Como Reproduzir Localmente
 1. Clone este repositório:
